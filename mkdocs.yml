@@ -1,0 +1,14 @@
+site_name: K8s Class Material (PYRK8S)
+nav:
+  - Home: index.md
+  - Kubernetes Cert and Exam Tips: Kubernetes_Cert_Exam_Guidelines.md
+  - Day 1 Agenda and Activities: day1.md
+  - Additional Red Hat and OpenShift Training: Optional_OpenShift_Labs.md
+  - Day 2 Agenda and Activities: day2.md
+  - Day 3 Agenda and Activities: day3.md
+  - Day 4 Agenda and Activities: day4.md
+  - Day 5 Agenda and Activities: day5.md
+  - IBM Stock Trader Project: IBMStockTraderProject.md
+  - End To End Demo Recordings: EndToEndDemos-Resource.md
+theme: readthedocs
+extra_css: ["extra.css"]
